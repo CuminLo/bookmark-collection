@@ -1,12 +1,9 @@
 name: Bookmark Summary
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - '**.md'
-  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # 每天午夜触发
+  workflow_dispatch:  # 允许手动触发
 
 concurrency:
   group: mygroup
