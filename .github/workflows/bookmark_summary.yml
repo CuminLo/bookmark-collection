@@ -21,12 +21,21 @@ jobs:
       with:
         path: bookmark-collections
 
+    - name: Print current directory
+      run: pwd
+  
+    - name: Print checkout directory
+      run: ls -la bookmark-collections
+
     - name: Checkout bookmark-summary
       uses: actions/checkout@v2
       with:
         repository: CuminLo/bookmark-summary
         path: bookmark-summary
         token: ${{ secrets.PAT }}
+
+    - name: Print checkout directory
+      run: ls -la bookmark-summary
 
     - name: Set up Python
       uses: actions/setup-python@v2
