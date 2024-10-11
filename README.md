@@ -1,1 +1,2 @@
+- [还在用 top htop? 赶紧换 btop 吧，真香！](https://mp.weixin.qq.com/s/Qr-z0-zL44UjnItmDlsMzg)
 - [关联 bookmark-summary](https://github.com/CuminLo/bookmark-summary)
