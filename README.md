@@ -1,1 +1,1 @@
-- [关联 bookmark-summary ](https://github.com/CuminLo/bookmark-summary)
+- [关联 bookmark-summary](https://github.com/CuminLo/bookmark-summary)
