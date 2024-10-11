@@ -16,10 +16,10 @@ jobs:
   summarize:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout bookmark-collection
+    - name: Checkout bookmark-collections
       uses: actions/checkout@v2
       with:
-        path: bookmark-collection
+        path: bookmark-collections
 
     - name: Checkout bookmark-summary
       uses: actions/checkout@v2
