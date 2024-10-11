@@ -1,3 +1,4 @@
+- [使用 macvlan 为 Docker 配置 IPv6](https://blog.xm.mk/posts/73f9/)
 - [How our ping pong startup hit $50M in 5 years using automation](https://fortune.com/2024/09/27/startup-entrepreneurs-automation-ping-pong-sports-venues-tech-saas-smartphone-apps-pingpod-podplay/) 商业
 - [Server Setup Basics](https://becomesovran.com/blog/server-setup-basics.html)
 - [How I Built My Blog • Josh W. Comeau](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
