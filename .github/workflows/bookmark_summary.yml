@@ -27,6 +27,9 @@ jobs:
     - name: Print checkout directory
       run: ls -la bookmark-collections
 
+    - name: Print current directory
+      run: pwd
+
     - name: Checkout bookmark-summary
       uses: actions/checkout@v2
       with:
