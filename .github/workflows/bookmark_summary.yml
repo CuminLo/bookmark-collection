@@ -13,19 +13,10 @@ jobs:
   summarize:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout bookmark-collections
+    - name: Checkout bookmark-collection
       uses: actions/checkout@v2
       with:
-        path: bookmark-collections
-
-    - name: Print current directory
-      run: pwd
-  
-    - name: Print checkout directory
-      run: ls -la bookmark-collections
-
-    - name: Print current directory
-      run: pwd
+        path: bookmark-collection
 
     - name: Checkout bookmark-summary
       uses: actions/checkout@v2
@@ -33,9 +24,6 @@ jobs:
         repository: CuminLo/bookmark-summary
         path: bookmark-summary
         token: ${{ secrets.PAT }}
-
-    - name: Print checkout directory
-      run: ls -la bookmark-summary
 
     - name: Set up Python
       uses: actions/setup-python@v2
