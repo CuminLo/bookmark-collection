@@ -1,3 +1,4 @@
+- [分析一个steam假入库行为，附带相关恶意样本 - 逗比大师 - 博客园](https://www.cnblogs.com/0day-li/p/18042274)
 - [leitbogioro/Tools: Something about tools](https://github.com/leitbogioro/Tools)
 - [Debian Server 初始化设置 SOP](https://blog.xm.mk/posts/89da/)
 - [使用 macvlan 为 Docker 配置 IPv6](https://blog.xm.mk/posts/73f9/)
