@@ -1,3 +1,4 @@
+- [构建一个基于 Debian 的 DIY N100 NAS，第二部分：软件 | PCat 的秘密之地 --- Building a N100 Debian-based DIY NAS, Part 2: Software | PCat's Secret Place](https://tongkl.com/building-a-nas-part-2/)
 - [Linux RAID](https://webmin.com/docs/modules/linux-raid/)
 - [分析一个steam假入库行为，附带相关恶意样本 - 逗比大师 - 博客园](https://www.cnblogs.com/0day-li/p/18042274)
 - [leitbogioro/Tools: Something about tools](https://github.com/leitbogioro/Tools)
