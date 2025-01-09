@@ -1,3 +1,4 @@
+- [A friendly introduction to assembly for high-level programmers — Hello](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html) #assembly
 - [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities/) #macos#command
 - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) #ai#llms
 - [How To Configure Storage On Linux](https://embeddedprojects101.com/the-beginners-guide-to-linux-storage-configuration/)
