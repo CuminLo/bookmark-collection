@@ -1,3 +1,4 @@
+- [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities/) #macos#command
 - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) #ai#llms
 - [How To Configure Storage On Linux](https://embeddedprojects101.com/the-beginners-guide-to-linux-storage-configuration/)
 - [构建一个基于 Debian 的 DIY N100 NAS，第二部分：软件 | PCat 的秘密之地 --- Building a N100 Debian-based DIY NAS, Part 2: Software | PCat's Secret Place](https://tongkl.com/building-a-nas-part-2/)
