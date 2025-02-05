@@ -1,3 +1,4 @@
+- [给OpenWrt配置多个VLAN（比如访客网络），彼此隔离以提高网络安全性](https://www.v2tn.com/16852838797095)
 - [How to Trade SMC: A Informational Guide for Aspiring Traders](https://medium.com/@future.of.resilience/how-to-trade-smc-a-informational-guide-for-aspiring-traders-49254603d08f) #smc#trader
 - [A friendly introduction to assembly for high-level programmers — Hello](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html) #assembly
 - [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities/) #macos#command
