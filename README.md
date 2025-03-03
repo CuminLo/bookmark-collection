@@ -1,3 +1,4 @@
+- [如何正确配置 OpenWrt WPA3 + 802.11kvr](https://vicfree.com/2022/11/openwrt-wpa3-802.11kvr-ap-setup/)
 - [记录一次折腾WIFI漫游的过程 - Group B](https://www.drxcloud.club/765.html)
 - [HK's note ✨ 小米 AX3000T 路由器刷入使用官方原版 OpenWrt / ImmortalWrt 固件](https://note.okhk.net/xiaomi-ax3000t-router-install-openwrt-immortalwrt)
 - [记录一次折腾WIFI漫游的过程 - Group B](https://www.drxcloud.club/765.html)
