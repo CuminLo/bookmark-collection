@@ -1,3 +1,4 @@
+- [小米AX3000T刷不死uboot+刷openwrt系统教程](https://blog.wwang.pw/post/ax3000t)
 - [小米AX3000T刷机教程](https://www.benzhu.xyz//archives/xiao-mi-ax3000tshua-ji-jiao-cheng)
 - [NAS系列 硬件选择 - Bensz](https://blognas.hwb0307.com/nas/3224)
 - [中移RAX3000Q路由器解锁telnet/ssh及使用内置的OpenWrt | imlk's blog](https://blog.imlk.top/posts/rax3000q-get-shell/)
