@@ -1,3 +1,4 @@
+- [记录一次折腾WIFI漫游的过程 - Group B](https://www.drxcloud.club/765.html)
 - [小米AX3000T刷不死uboot+刷openwrt系统教程](https://blog.wwang.pw/post/ax3000t)
 - [小米AX3000T刷机教程](https://www.benzhu.xyz//archives/xiao-mi-ax3000tshua-ji-jiao-cheng)
 - [NAS系列 硬件选择 - Bensz](https://blognas.hwb0307.com/nas/3224)
