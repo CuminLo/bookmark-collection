@@ -1,3 +1,4 @@
+- [家庭网络小升级 Part II / 双 AP 组网实战：我的 IoT 设备怎么又双叒叕炸了](https://mary.kevinmx.top/default/80211kvr.html)
 - [CR8808移动版免拆机刷入红米AX3000固件 喂饭教程 – 猫点饭](https://mao.fan/article/93)
 - [实现OpenWrt路由器无线网络间的无缝漫游（1） - 路由智态](https://www.red-yellow.net/%e5%ae%9e%e7%8e%b0openwrt%e8%b7%af%e7%94%b1%e5%99%a8%e6%97%a0%e7%ba%bf%e7%bd%91%e7%bb%9c%e9%97%b4%e7%9a%84%e6%97%a0%e7%bc%9d%e6%bc%ab%e6%b8%b8%ef%bc%881%ef%bc%89.html)
 - [如何正确配置 OpenWrt WPA3 + 802.11kvr](https://vicfree.com/2022/11/openwrt-wpa3-802.11kvr-ap-setup/)
