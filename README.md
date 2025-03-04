@@ -1,3 +1,4 @@
+- [使用 Debian 作为路由器](https://blog.bling.moe/post/3/)
 - [全球投资开户完全指南：A股与美股篇](https://www.bmpi.dev/money/guide-to-open-global-investment-account/)
 - [家庭网络小升级 Part II / 双 AP 组网实战：我的 IoT 设备怎么又双叒叕炸了](https://mary.kevinmx.top/default/80211kvr.html)
 - [CR8808移动版免拆机刷入红米AX3000固件 喂饭教程 – 猫点饭](https://mao.fan/article/93)
