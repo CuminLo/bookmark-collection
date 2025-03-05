@@ -1,3 +1,4 @@
+- [用AI给女儿画了一本绘本，故事的主角就是她自己--完整教程--附完整prompt | 小耸的博客 Spencer's Blog](https://xiaosong.fun/2024/04/15/anan/)
 - [我的家庭网络设计思路，开启debian的旁路由之路（一）](https://evine.win/p/%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF%E5%BC%80%E5%90%AFdebian%E7%9A%84%E6%97%81%E8%B7%AF%E7%94%B1%E4%B9%8B%E8%B7%AF%E4%B8%80/)
 - [使用 Debian 作为路由器](https://blog.bling.moe/post/3/)
 - [全球投资开户完全指南：A股与美股篇](https://www.bmpi.dev/money/guide-to-open-global-investment-account/)
