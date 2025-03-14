@@ -1,3 +1,4 @@
+- [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 - [我的智能家居监控方案:打造自主、安全、可控的摄像头](https://luolei.org/secure-home-camera-setup)
 - [[Openwrt编译] 2. 添加更多的软件包](https://teapotium.com/2024/01/how-to-add-additional-software-packages/index.html)
 - [用AI给女儿画了一本绘本，故事的主角就是她自己--完整教程--附完整prompt | 小耸的博客 Spencer's Blog](https://xiaosong.fun/2024/04/15/anan/)
