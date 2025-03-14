@@ -1,3 +1,4 @@
+- [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 - [我的智能家居监控方案:打造自主、安全、可控的摄像头](https://luolei.org/secure-home-camera-setup)
 - [[Openwrt编译] 2. 添加更多的软件包](https://teapotium.com/2024/01/how-to-add-additional-software-packages/index.html)
