@@ -1,3 +1,4 @@
+- [京东云 AX1800 Pro 路由器(亚瑟)刷入 u-boot 和 OpenWrt - Phyng 的博客](https://phyng.com/2024/05/05/ax1800-openwrt.html)
 - [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 - [我的智能家居监控方案:打造自主、安全、可控的摄像头](https://luolei.org/secure-home-camera-setup)
