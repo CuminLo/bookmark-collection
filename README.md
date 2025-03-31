@@ -1,3 +1,4 @@
+- [JDCloud AX6600（雅典娜） 刷机记录](https://250.ac.cn/2025/01/12/JDCloud-AX6600-openwrt/)
 - [京东云 AX1800 Pro 路由器(亚瑟)刷入 u-boot 和 OpenWrt - Phyng 的博客](https://phyng.com/2024/05/05/ax1800-openwrt.html)
 - [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
