@@ -1,3 +1,4 @@
+- [docker 中安装 openwrt 并作为旁路由 – 夏至](https://mxenc.com/2025/04/04/docker_install_openwrt_and_use_as_bypass_router/)
 - [如何聪明地提问 --- How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
 - [小米AX3000T（固件1.0.90）刷 openwrt](https://jklincn.com/posts/openwrt/)
 - [JDCloud AX6600（雅典娜） 刷机记录](https://250.ac.cn/2025/01/12/JDCloud-AX6600-openwrt/)
