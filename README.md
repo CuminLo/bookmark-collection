@@ -1,3 +1,4 @@
+- [线上故障应急处理：4 年多 on call 经验总结](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/)
 - [Suffering-oriented programming - thoughts from the red planet - thoughts from the red planet](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 - [计算机网络简介 --- An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/)
 - [市场结构入门 --- Market Structure Primer](https://primer.prooftrading.com/)
