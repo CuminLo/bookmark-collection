@@ -1,3 +1,4 @@
+- [Wish or reality? On the exploitability of triangular arbitrage in cryptocurrency markets](https://www.sciencedirect.com/science/article/pii/S154461232401537X)
 - [Deploying On-Chain Arbitrage Bots on Binance Smart Chain (BSC) Using Python and Web3.py
 在币安智能链（BSC）上使用 Python 和 Web3.py 部署链上套利机器人](https://coinplify.com/blog/deploying-on-chain-arbitrage-bots-on-binance-smart-chain-bsc-using-python-and-web3py)
 - [How I Set Up New MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)
